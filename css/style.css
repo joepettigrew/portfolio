@@ -62,6 +62,10 @@ header h3 {
   letter-spacing:.05em;
 }
 
+.works {
+  padding:0 0 30px 0;
+}
+
 .works img {
   margin: 0 0 10px 0;
 }
